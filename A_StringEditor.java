@@ -1,6 +1,6 @@
 package editor;
 
-import java.util.Arrays;  // Kyle Eberhart CSC 300 MW 1150-120
+import java.util.Arrays;  
 
 public class A_StringEditor {
 	private static final int INITIAL_CAPACITY = 1000;  // The initial size of the data array
