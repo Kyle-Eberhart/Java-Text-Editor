@@ -1,4 +1,4 @@
-package editor;  // Kyle Eberhart CSC 300 MW 1150-120
+package editor;  
 
 public class L_StringEditor {
 	private class Node {
