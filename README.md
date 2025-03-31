@@ -1,6 +1,6 @@
 # Java-Text-Editor
 This project is a text editor that has two versions: one implemented with a linked list, the other implemented with a dynamic array.          
-The text editor supports traversing the cursor through strings, backspace, delete, etc.
+The text editor supports operations such as traversing the cursor through strings, backspace, delete, etc.
 
 To use the text editor:                                                                                          
 1.) Clone this repository                                                                                                       
